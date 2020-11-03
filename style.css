@@ -1,0 +1,13 @@
+h1 {
+  color: blue;
+}
+.aju {
+  color: aqua;
+}
+#sig {
+  height: 25px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
